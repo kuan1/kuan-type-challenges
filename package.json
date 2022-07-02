@@ -1,0 +1,7 @@
+{
+  "name": "kuan-type-challenges",
+  "private": true,
+  "workspaces": [
+    "type-utils"
+  ]
+}
