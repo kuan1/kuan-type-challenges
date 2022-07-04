@@ -1,6 +1,6 @@
 ## kuan-type-challenges <img src="https://shields.io/github/last-commit/kuan1/kuan-type-challenges" />
 
-typescript类型挑战，目标10天，today(2022.07.02)
+typescript类型挑战，目标10天
 
 
 ## 签到
@@ -12,7 +12,10 @@ typescript类型挑战，目标10天，today(2022.07.02)
 - [x] 2022.07.03
 
 <img src="https://img.shields.io/badge/exclude-blue" /> <img src="https://img.shields.io/badge/awaited-blue" /> <img src="https://img.shields.io/badge/if-blue" /> <img src="https://img.shields.io/badge/concat-blue" /> <img src="https://img.shields.io/badge/includes-blue" /> <img src="https://img.shields.io/badge/push-blue" /> <img src="https://img.shields.io/badge/unshift-blue" /> <img src="https://img.shields.io/badge/parameters-blue" />
-- [ ] 2022.07.04
+- [x] 2022.07.04
+
+<img src="https://img.shields.io/badge/returnType-blue" /> <img src="https://img.shields.io/badge/deepReadonly-blue" /> <img src="https://img.shields.io/badge/omit-blue" /> <img src="https://img.shields.io/badge/readonly2-blue" /> <img src="https://img.shields.io/badge/tupleToUnion-blue" /> 
+
 - [ ] 2022.07.05
 - [ ] 2022.07.06
 - [ ] 2022.07.07
