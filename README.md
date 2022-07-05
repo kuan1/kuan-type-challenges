@@ -16,7 +16,10 @@ typescript类型挑战，目标10天
 
 <img src="https://img.shields.io/badge/returnType-blue" /> <img src="https://img.shields.io/badge/deepReadonly-blue" /> <img src="https://img.shields.io/badge/omit-blue" /> <img src="https://img.shields.io/badge/readonly2-blue" /> <img src="https://img.shields.io/badge/tupleToUnion-blue" /> 
 
-- [ ] 2022.07.05
+- [x] 2022.07.05
+
+<img src="https://img.shields.io/badge/lastOfArray-blue" /> <img src="https://img.shields.io/badge/pop-blue" />  <img src="https://img.shields.io/badge/promiseAll-blue" /> <img src="https://img.shields.io/badge/typeLookup-blue" /> 
+
 - [ ] 2022.07.06
 - [ ] 2022.07.07
 - [ ] 2022.07.08
