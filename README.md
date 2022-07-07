@@ -24,7 +24,10 @@ typescript类型挑战，目标10天
 
 <img src="https://img.shields.io/badge/trimleft-blue" />  <img src="https://img.shields.io/badge/trim-blue" />  <img src="https://img.shields.io/badge/capitalize-blue" />  <img src="https://img.shields.io/badge/replace-blue" /> <img src="https://img.shields.io/badge/replaceAll-blue" /> 
 
-- [ ] 2022.07.07
+- [x] 2022.07.07
+
+<img src="https://img.shields.io/badge/appendArgument-blue" />  <img src="https://img.shields.io/badge/permutation-blue" />   <img src="https://img.shields.io/badge/permutation-blue" />  <img src="https://img.shields.io/badge/flatten-blue" /> <img src="https://img.shields.io/badge/appendToObject-blue" /> <img src="https://img.shields.io/badge/absolute-blue" />  <img src="https://img.shields.io/badge/StringToUnion-blue" />  
+
 - [ ] 2022.07.08
 - [ ] 2022.07.09
 - [ ] 2022.07.10
