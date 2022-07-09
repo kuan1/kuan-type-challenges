@@ -1,0 +1,1 @@
+type AnyOf<T extends readonly any[]> = T[number] extends Record<PropertyKey, never> | [] | '' | 0 | false ? false : true

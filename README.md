@@ -33,6 +33,13 @@ typescript类型挑战，目标10天
 <img src="https://img.shields.io/badge/merchant-blue" />  <img src="https://img.shields.io/badge/KebabCase-blue" />   <img src="https://img.shields.io/badge/diff-blue" />  
 
 - [ ] 2022.07.09
+
+<img src="https://img.shields.io/badge/anyOf-blue" />  
+<img src="https://img.shields.io/badge/isnever-blue" />  
+<img src="https://img.shields.io/badge/isUnion-blue" />  
+<img src="https://img.shields.io/badge/replaceKeys-blue" />  
+<img src="https://img.shields.io/badge/removeIndexSignature-blue" />  
+
 - [ ] 2022.07.10
 - [ ] 2022.07.11
 
