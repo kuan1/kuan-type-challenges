@@ -1,6 +1,6 @@
 ## kuan-type-challenges <img src="https://shields.io/github/last-commit/kuan1/kuan-type-challenges" />
 
-typescript类型挑战，目标10天
+typescript类型挑战，目标连续10天commit
 
 
 ## 签到
@@ -28,19 +28,18 @@ typescript类型挑战，目标10天
 
 <img src="https://img.shields.io/badge/appendArgument-blue" />  <img src="https://img.shields.io/badge/permutation-blue" />   <img src="https://img.shields.io/badge/permutation-blue" />  <img src="https://img.shields.io/badge/flatten-blue" /> <img src="https://img.shields.io/badge/appendToObject-blue" /> <img src="https://img.shields.io/badge/absolute-blue" />  <img src="https://img.shields.io/badge/StringToUnion-blue" />  
 
-- [ ] 2022.07.08
+- [x] 2022.07.08
 
 <img src="https://img.shields.io/badge/merchant-blue" />  <img src="https://img.shields.io/badge/KebabCase-blue" />   <img src="https://img.shields.io/badge/diff-blue" />  
 
-- [ ] 2022.07.09
+- [x] 2022.07.09
 
-<img src="https://img.shields.io/badge/anyOf-blue" />  
-<img src="https://img.shields.io/badge/isnever-blue" />  
-<img src="https://img.shields.io/badge/isUnion-blue" />  
-<img src="https://img.shields.io/badge/replaceKeys-blue" />  
-<img src="https://img.shields.io/badge/removeIndexSignature-blue" />  
+<img src="https://img.shields.io/badge/anyOf-blue" />  <img src="https://img.shields.io/badge/isnever-blue" />  <img src="https://img.shields.io/badge/isUnion-blue" />  <img src="https://img.shields.io/badge/replaceKeys-blue" />  <img src="https://img.shields.io/badge/removeIndexSignature-blue" />  
 
-- [ ] 2022.07.10
+- [x] 2022.07.10
+
+<img src="https://img.shields.io/badge/DropChar-blue" /> <img src="https://img.shields.io/badge/MinusOne-blue" /> <img src="https://img.shields.io/badge/minus-blue" /> <img src="https://img.shields.io/badge/PickByType-blue" /> <img src="https://img.shields.io/badge/StartsWith-blue" /> 
+
 - [ ] 2022.07.11
 
 ## 资料
