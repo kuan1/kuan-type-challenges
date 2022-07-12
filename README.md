@@ -44,11 +44,9 @@ typescript类型挑战，目标连续10天commit
 
 <img src="https://img.shields.io/badge/EndsWith-blue" /> <img src="https://img.shields.io/badge/PartialByKeys-blue" /> 
 
-- [ ] 2022.07.12
+- [x] 2022.07.12
 
-<img src="https://img.shields.io/badge/RequiredByKeys-blue" /> 
-<img src="https://img.shields.io/badge/Mutable-blue" /> 
-<img src="https://img.shields.io/badge/OmitByType-blue" /> 
+<img src="https://img.shields.io/badge/RequiredByKeys-blue" /> <img src="https://img.shields.io/badge/Mutable-blue" /> <img src="https://img.shields.io/badge/OmitByType-blue" /> <img src="https://img.shields.io/badge/ObjectEntries-blue" /> <img src="https://img.shields.io/badge/Shift-blue" /> 
 
 ## 资料
 [type-challenges](https://github.com/type-challenges/type-challenges)
